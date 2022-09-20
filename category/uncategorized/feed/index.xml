@@ -11,8 +11,8 @@
 	>
 
 <channel>
-	<title></title>
-	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
+	<title>Uncategorized</title>
+	<atom:link href="/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Aidan Wright&#039;s portfolio for ENGL 1007</description>
 	<lastBuildDate>Mon, 19 Sep 2022 14:52:10 +0000</lastBuildDate>
@@ -25,7 +25,7 @@
 
 <image>
 	<url>https://i0.wp.com/aidanwrightengl1007.wpcomstaging.com/wp-content/uploads/2022/09/untitled.png?fit=32%2C12&#038;ssl=1</url>
-	<title></title>
+	<title>Uncategorized</title>
 	<link>/</link>
 	<width>32</width>
 	<height>32</height>
